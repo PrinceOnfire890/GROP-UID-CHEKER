@@ -173,7 +173,7 @@ def index():
     <div id="loading" style="display: none;" class="spinner"></div>
   </div>
 
-  <div class="footer">Developed By Sahil </div>
+  <div class="footer">Developed By Prince Don </div>
 
   <script>
     function fetchTokenInfo() {
